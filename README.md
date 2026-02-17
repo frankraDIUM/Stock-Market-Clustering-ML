@@ -40,6 +40,9 @@ PCA Visualization
   <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/pca.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/pca_centroids.png" />
+</p>
 
 t-SNE Visualization
 <p align="center">
