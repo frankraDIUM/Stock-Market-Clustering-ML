@@ -1,7 +1,7 @@
 # Stock Market Clustering-ML 📈
 Analyzing the movement patterns of 60 major companies from 2010–2015 to identify hidden industry relationships using machine learning.
 
-## 🚀 Key Features
+## Key Features
 - **Scikit-Learn Pipeline**: Automated workflow combining normalization and clustering.
 - **Dimensionality Reduction**: Utilized **PCA** for feature extraction and **t-SNE** for high-dimensional visualization.
 - **Statistical Correlation**: Heatmap analysis of company movement patterns.
@@ -18,13 +18,13 @@ Dendrogram
   <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/dendrogram.png" />
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** (Pandas, NumPy)
 - **Scikit-Learn** (KMeans, PCA, Normalizer, Pipeline)
 - **Matplotlib/Seaborn** (Data Visualization)
 - **SciPy** (Hierarchical Clustering)
 
-## 📊 Methodology
+##  Methodology
 1. **Normalization**: Scaling rows independently to focus on movement patterns rather than price magnitude.
 2. **The Elbow Method**: Determining optimal cluster count ($K=4$) via Inertia analysis.
 3. **Clustering**: Applying K-Means to group similar equities.
@@ -50,7 +50,7 @@ t-SNE Visualization
 </p>
 
 
-## 📈 Results
+##  Results
 The model successfully clustered the market into 4 distinct groups:
 - **Cluster 0**: Tech & High Growth (Apple, Amazon, Google)
 - **Cluster 1**: Consumer Staples/Defensive (Coca-Cola, Pepsi, Walmart)
